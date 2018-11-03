@@ -67,8 +67,7 @@
 
 配對
 
-                      public class PairCard {
-
+     public class PairCard {
           public void pair(List<Card> cards) {
               //從所有卡片中取5個
               for (int i = 1; i <= 5; i++) {
